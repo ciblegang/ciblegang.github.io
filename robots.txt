@@ -1,7 +1,7 @@
 User-Agent: *
 Disallow: 
 
-https://ciblegang.github.io/a/sitemap.html
-https://ciblegang.github.io/b/sitemap.html
-https://ciblegang.github.io/c/sitemap.html
-https://ciblegang.github.io/d/sitemap.html
+Sitemap: https://ciblegang.github.io/a/sitemap.html
+Sitemap: https://ciblegang.github.io/b/sitemap.html
+Sitemap: https://ciblegang.github.io/c/sitemap.html
+Sitemap: https://ciblegang.github.io/d/sitemap.html
